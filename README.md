@@ -1,5 +1,5 @@
 # Back-end
-
+DATABASE_URL="file:../src/database/db.sqlite"
 ## Entidades
 
 ### Game 
